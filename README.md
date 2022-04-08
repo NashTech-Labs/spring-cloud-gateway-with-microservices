@@ -13,5 +13,6 @@ This is a microservice which behaves as the gateway to the first microservice an
 
 # Endpoints(requests passing through the gateway)
 http://localhost:8080/first/microservice/message
+
 http://localhost:8080/second/microservice/message
 
