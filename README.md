@@ -1,5 +1,5 @@
 # spring-cloud-gateway-with-microservices
-This template helps us to spring cloud gateway and its working. The template included the gateway repository and microservices repository. And this gateway routes the requests to specific microservice. 
+This template helps us to spring cloud gateway and its working. The template included the gateway repo and microservices repos'. And this gateway responsible to route the requests to specific microservice. 
 
 # first microservice
 This is a microservice which is responsible for accepting the request and returns the string in response. 
